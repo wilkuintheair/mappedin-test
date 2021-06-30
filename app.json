@@ -1,4 +1,12 @@
 {
   "name": "MappedInTest",
-  "displayName": "MappedInTest"
+  "displayName": "MappedInTest",
+  "mapOptions": {
+    "clientId": "CLIENT_ID",
+    "clientSecret": "CLIENT_SECRET",
+    "venue": "VENUE",
+    "perspective": "Website",
+    "backgroundColor": "black",
+    "labelAllLocationsOnInit": false
+  }
 }
